@@ -1,0 +1,10 @@
+p{background-color:red}
+h1{color:pink;background-color:blue;text_decoration:line-through}
+h4{color:pink;backround-color:green}
+body
+{
+background-image:url("lbrce.jpg");
+background-repeat:no-repeat;
+background-size:200px 200px;
+background-position:center
+}
